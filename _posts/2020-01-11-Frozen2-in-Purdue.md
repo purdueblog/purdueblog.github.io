@@ -16,7 +16,7 @@ author : subeen
 
 다른 영화들도 보고싶었지만, 어차피 못알아 들을거 같아서 참았다.
 
-(https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/KakaoTalk_20200114_024111098_01.jpg?raw=true)
+![Image of menu](https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/KakaoTalk_20200114_024111098_01.jpg?raw=true)
 
 빅어메라카라 그런지 팝콘이랑 음료수가 되게 컸다. 3명이서 라지팝콘에 미디엄 음료수 2개를 시켰는데, 셋 다 남았다. 대신 빅어메리카라 가격도 빅...
 
