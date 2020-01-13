@@ -1,5 +1,5 @@
 ---
-title: "Dinner with KFC!"
+title: "Fozen2 in Purdue"
 date: 2020-01-11
 categories: diary
 tags :  Frozen2 theater diary
