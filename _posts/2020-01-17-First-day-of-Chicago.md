@@ -24,7 +24,6 @@ author : subeen
 ![lasagne](https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/las.jpg?raw=true)
 
 
-
 시카고에 도착하자 마자 먹은 저녁이다.  한국 피자집에서 시키는 파스타랑은 비교가 안되게 맛있었다. 미국에서 한식먹는게 맛없는 것처럼 한국에서 다른나라 음식 먹으면 맛없나보다.  피자는 고기도 맛있었다. 근데 식으니까 좀 짜졌다.
 
 라자냐는 처음 먹어봤는데, 쫄깃한 맛도나고 맛있었당.
