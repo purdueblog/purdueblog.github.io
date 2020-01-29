@@ -6,10 +6,6 @@ tags : chicago traveling diary giodarno's starbucks
 author : subeen
 ---
 
-
-
- # Subeen's first day of Chicago
-
 >  Departure
 
  Lafayatte에서 Chicago로 가는 GreyHound 버스를 탔다. 버스 정류장이 달랑 벤치 하나인 거에 굉장히 충격 받았지만, 그래도 성공적으로 버스를 탔다. GreyHound는 지정좌석 없이 선착순으로 타게 되서 다들 떨어져 남는 자리에 앉았다.
