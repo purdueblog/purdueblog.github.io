@@ -13,15 +13,16 @@ author : subeen
 ## GIODARNO's
 
 * Pizza
-![pizza](https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/pza.jpg?raw=true){:height="400px" width="600px"}
+<p align="center">
+<img src="https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/pza.jpg?raw=true" width="800" ></p>
 
 * Chicken Chopped Salad
-
-![salad](https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/sal.jpg?raw=true){:height="400px" width="600px"}
+<p align="center">
+<img src="https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/sal.jpg?raw=true" width="800"></p>
 
 * Lasagne
-
-![lasagne](https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/las.jpg?raw=true){:height="400px" width="600px"}
+<p align="center">
+<img src="https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/las.jpg?raw=true" width="800"></p>
 
 
 시카고에 도착하자 마자 먹은 저녁이다.  한국 피자집에서 시키는 파스타랑은 비교가 안되게 맛있었다. 미국에서 한식먹는게 맛없는 것처럼 한국에서 다른나라 음식 먹으면 맛없나보다.  피자는 고기도 맛있었다. 근데 식으니까 좀 짜졌다.
@@ -33,8 +34,8 @@ author : subeen
 
 ## STARBUCKS reserves ROASTERY
 
-
-![coffee](https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/coffee.jpg?raw=true)
+<p align="center">
+ <img src="https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/coffee.jpg?raw=true" width="800"></p>
 
 
 
