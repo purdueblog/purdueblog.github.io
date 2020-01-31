@@ -33,4 +33,4 @@ This image is separated soil to compare auto irrigation and manual irrigation.
 The Sprinkler on farm operates well in this Video.
 
 [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/embed/ziH4H-jZAgs)
-{% include irrigation.html id="https://youtu.be/ziH4H-jZAgs" %}  
+{% include irrigation.html id="ziH4H-jZAgs" %}  
