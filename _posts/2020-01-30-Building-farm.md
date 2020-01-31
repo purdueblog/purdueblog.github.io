@@ -32,4 +32,4 @@ This image is separated soil to compare auto irrigation and manual irrigation.
 
 The Sprinkler on farm operates well in this Video.
 
-<iframe width="893" height="502" src="https://www.youtube.com/embed/ziH4H-jZAgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="893" height="502" src="https://www.youtube.com/embed/ziH4H-jZAgs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
