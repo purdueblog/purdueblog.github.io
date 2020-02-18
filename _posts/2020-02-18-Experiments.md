@@ -18,4 +18,4 @@ author : subeen
 
 Both are growing well, although experimental group used more less water amounts. 
 
-We give them same condition except for water amounts
+We gave them same condition except for water amounts
