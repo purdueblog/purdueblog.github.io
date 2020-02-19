@@ -13,7 +13,7 @@ author : subeen
 <p align="center">
 <img src="https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/connor.png?raw=true" width="300" ></p>
 
-
+<p></p>
 #### Name
 
  Connor Polanka
