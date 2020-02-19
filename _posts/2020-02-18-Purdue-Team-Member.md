@@ -7,7 +7,28 @@ author : subeen
 
 ---
 
-# Our Purdue Friend !
+# Our Purdue Team !
+
+<hr>
+#### Name
+
+ Jeongjun Lee
+
+#### Age
+
+25 ( in Korea)
+
+#### Major
+
+Computer Science and Engineering
+
+#### Meeting time
+
+all day...
+
+#### Mainly doing 
+
+LoRa coding and draft write..
 
 <hr>
 
