@@ -9,6 +9,8 @@ author : subeen
 
 # Our Purdue Friend !
 
+<hr>
+
 
 <p align="center">
 <img src="https://github.com/purdueblog/purdueblog.github.io/blob/master/assets/images/connor.png?raw=true" width="300"></p>
